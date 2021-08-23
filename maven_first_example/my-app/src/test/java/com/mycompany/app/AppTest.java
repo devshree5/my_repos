@@ -37,10 +37,10 @@ public class AppTest
     }
     public void testApp1()
     {
-    asserTrue( true );
+   	 assertTrue( true );
     }
     public void testApp2()
     {
-     asserTrue( true );
+    	 assertTrue( true );
     }
 }
